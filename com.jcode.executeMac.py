@@ -1,4 +1,5 @@
 import os
 
 
-os.system('python com.jcode..py')
+os.system('python com.jcode.MacCloner.py')
+
