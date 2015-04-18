@@ -9,8 +9,11 @@ Download by clicking the "Download ZIP" button at the left of the screen. <br>
 # Requirements IMPORTANT
 <strong> YOU MUST HAVE PYTHON INSTALLED </strong>
 
-# Use
+# Use (Personal)
 Go to terminal and type and do the following:
+
+# Use (business/commercial)
+Fork this code and change the line of code `clonePrompt = raw_input("Repo Name")` to `os.system('git clone [url here]` in com.jcode.MacCloner.py
 
 Go to terminal and type ```cd ``` and drag the extracted folder next to the word cd (don't forget the space after cd)<br>
 Then click enter.
