@@ -1,1 +1,6 @@
+#!/bin/sh
 
+echo -n "Git Repo URL or Git URL:"
+read -e GCURL
+
+git clone $GCURL
